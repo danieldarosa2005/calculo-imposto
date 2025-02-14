@@ -15,7 +15,11 @@ for (int i = 1; i <= n; i++)
     String name = Console.ReadLine();
 
     Console.Write("Anual income: ");
+<<<<<<< HEAD
     double income = double.Parse(Console.ReadLine(), CultureInfo.InstalledUICulture);
+=======
+    double income = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+>>>>>>> 29f5461 (Feito uma função que se o usuário não digitar corretamente, ele pede novamente)
     
     if (type == 'i') {
         System.Console.Write("Health expenditures: ");

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 class Individual : TaxPayer {
+=======
+ class Individual : TaxPayer {
+>>>>>>> 29f5461 (Feito uma função que se o usuário não digitar corretamente, ele pede novamente)
     public double HealthExpenditures { get; set; }
 
     public Individual() {
@@ -25,6 +29,7 @@ class Individual : TaxPayer {
              else {
                  return AnualIncome * 0.25 - HealthExpenditures * 0.5;
              }
+<<<<<<< HEAD
 } }
 
 abstract class TaxPayer {
@@ -41,3 +46,6 @@ abstract class TaxPayer {
     public abstract double Tax();
 
 }
+=======
+} }
+>>>>>>> 29f5461 (Feito uma função que se o usuário não digitar corretamente, ele pede novamente)

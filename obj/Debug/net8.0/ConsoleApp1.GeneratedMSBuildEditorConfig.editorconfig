@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleApp1
+<<<<<<< HEAD
 build_property.ProjectDir = C:\GIT\Códigos\Sistema de Cálculo de Impostos\ConsoleApp1\
+=======
+build_property.ProjectDir = C:\Programa\C#\calculo-imposto\ConsoleApp1\
+>>>>>>> 29f5461 (Feito uma função que se o usuário não digitar corretamente, ele pede novamente)
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

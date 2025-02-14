@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\GIT\\Códigos\\Sistema de Cálculo de Impostos\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
       "projectPath": "C:\\GIT\\Códigos\\Sistema de Cálculo de Impostos\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
       "outputPath": "C:\\GIT\\Códigos\\Sistema de Cálculo de Impostos\\ConsoleApp1\\obj\\",
+=======
+      "projectUniqueName": "C:\\Programa\\C#\\calculo-imposto\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Programa\\C#\\calculo-imposto\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Programa\\C#\\calculo-imposto\\ConsoleApp1\\obj\\",
+>>>>>>> 29f5461 (Feito uma função que se o usuário não digitar corretamente, ele pede novamente)
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

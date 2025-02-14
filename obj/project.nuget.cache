@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "BOlePsilCAw=",
   "success": true,
   "projectFilePath": "C:\\GIT\\Códigos\\Sistema de Cálculo de Impostos\\ConsoleApp1\\ConsoleApp1.csproj",
+=======
+  "dgSpecHash": "4fOsRzRTpnY=",
+  "success": true,
+  "projectFilePath": "C:\\Programa\\C#\\calculo-imposto\\ConsoleApp1\\ConsoleApp1.csproj",
+>>>>>>> 29f5461 (Feito uma função que se o usuário não digitar corretamente, ele pede novamente)
   "expectedPackageFiles": [],
   "logs": []
 }
